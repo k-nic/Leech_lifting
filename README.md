@@ -304,8 +304,7 @@ the computations reported in the paper.
 If you use these files, please cite the accompanying paper:
 
     Rustem Takhanov and Stanislav Yun,
-    "New lower bounds for kissing numbers in dimensions 25–29 and 31",
+    "New lower bounds for kissing numbers in dimensions 25-29 and 31",
     2026.
 
-Please also cite the original PackingStar work for the starting
-Leech-lifting configurations, as referenced in the paper.
+Please also cite the previous records in dimensions 25-31, as referenced in the paper.
